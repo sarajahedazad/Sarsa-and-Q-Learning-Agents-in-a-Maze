@@ -13,7 +13,7 @@
 * It takes a number as input and make the person take a step. 0. up 1. right 2. down 3. left
 * Output of the step method: (state, reward, done, info) "done" is a flag determining whether the person has reached the end or not.
 
-## Approشches Taken
+## Approaches Taken
 * Implemented Sarsa and Q-learning agents
 * Decreased alpha and epsilon parameters during the training, and compared the results with the case in which these parameters were during the training.
 * Calculated regret for each episode and plotted it in the end.
