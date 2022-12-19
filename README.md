@@ -11,8 +11,7 @@
 
 **Step method of the class GridworldEnv:**
 * It takes a number as input and make the person take a step. 0. up 1. right 2. down 3. left
-* Output of the step method: (state, reward, done, info)
-*[] "done" is a flag determining whether the person has reached the end or not.
+* Output of the step method: (state, reward, done, info) "done" is a flag determining whether the person has reached the end or not.
 
 
 
